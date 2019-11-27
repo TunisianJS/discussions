@@ -1,2 +1,0 @@
-
-<!-- init template for issue -->
