@@ -1,2 +1,6 @@
 
-<!-- init template for pull request -->
+<!--
+
+Thank you for the PR! Contributors like you keep `Tunisian JS Community` awesome 🚀 !
+
+-->
