@@ -2,7 +2,7 @@
 
 <!--
 
-Thank you for the PR! Contributors like you keep `Tunisian JS Community` awesome 🚀 !
+Thank you for the PR! Contributors like you keep `Tunisian JS Community` awesome 🚀❤️ !
 
 -->
 
